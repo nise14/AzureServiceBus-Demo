@@ -1,0 +1,12 @@
+C:\Repository\Azure\ServiceBus\SBShared\bin\Debug\net6.0\SBShared.deps.json
+C:\Repository\Azure\ServiceBus\SBShared\bin\Debug\net6.0\SBShared.dll
+C:\Repository\Azure\ServiceBus\SBShared\bin\Debug\net6.0\SBShared.pdb
+C:\Repository\Azure\ServiceBus\SBShared\obj\Debug\net6.0\SBShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Azure\ServiceBus\SBShared\obj\Debug\net6.0\SBShared.AssemblyInfoInputs.cache
+C:\Repository\Azure\ServiceBus\SBShared\obj\Debug\net6.0\SBShared.AssemblyInfo.cs
+C:\Repository\Azure\ServiceBus\SBShared\obj\Debug\net6.0\SBShared.csproj.CoreCompileInputs.cache
+C:\Repository\Azure\ServiceBus\SBShared\obj\Debug\net6.0\SBShared.dll
+C:\Repository\Azure\ServiceBus\SBShared\obj\Debug\net6.0\refint\SBShared.dll
+C:\Repository\Azure\ServiceBus\SBShared\obj\Debug\net6.0\SBShared.pdb
+C:\Repository\Azure\ServiceBus\SBShared\obj\Debug\net6.0\ref\SBShared.dll
+C:\Repository\Azure\ServiceBus\SBShared\obj\Debug\net6.0\SBShared.sourcelink.json
